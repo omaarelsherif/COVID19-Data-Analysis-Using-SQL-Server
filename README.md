@@ -1,5 +1,5 @@
 <!-- PROJECT TITLE -->
-<h1 align="center">SQL Data Exploration Using SQL Server</h1>
+<h1 align="center">COVID19 Data Analysis Using SQL Server</h1>
 
 <!-- HEADER -->
 <p align="center">
