@@ -8,7 +8,7 @@
 
 <!-- PROJECT OVERVIEW -->
 ## <br>**➲ Project overview**
-This project focuses on exploring and analyzing COVID-19 related data using SQL Server. The primary datasets used are sourced from Our World in Data, specifically the COVID-19 deaths dataset (link to dataset). The dataset is split into two tables: CovidDeaths and CovidVaccinations. The analysis aims to provide insights into COVID-19 cases, deaths, and vaccinations, helping users understand various aspects of the pandemic.
+This project focuses on exploring and analyzing COVID-19 related data using SQL Server. The primary datasets used are sourced from Our World in Data, specifically the COVID-19 deaths dataset. The dataset is split into two tables: CovidDeaths and CovidVaccinations. The analysis aims to provide insights into COVID-19 cases, deaths, and vaccinations, helping users understand various aspects of the pandemic.
 
 <!-- PREREQUISTIES -->
 ## <br>**➲ Prerequisites**
